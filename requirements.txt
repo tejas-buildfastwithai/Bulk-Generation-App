@@ -1,5 +1,5 @@
 streamlit>=1.28.0
-educhain
+git+https://github.com/satvik314/educhainin
 langchain-openai
 langchain-anthropic
 langchain-google-genai
